@@ -1,2 +1,2 @@
-# Django-Models-zuri-fullstack-python
-django model zuri fullstack python task 
+# Django-Models---Zuri-Fullstack
+Django Models for Zuri Intership Fullstack Task - Python Django
